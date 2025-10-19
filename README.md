@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/channel/UC-YsuP1JJVYUj9ivM9uBtEQ" target="_blank">
+    <a>
       <img src="./public/drug_research.jpg" alt="ProteinBind Project Banner">
     </a>
   
@@ -15,9 +15,7 @@
 
   <h3 align="center">ProteinBind</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
